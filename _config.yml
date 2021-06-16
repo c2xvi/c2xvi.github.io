@@ -2,10 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
 date_format: "ordinal"
 title: Chem2080
-subtitle: A Simple Website
+subtitle: 
 description: 
 keywords: 
 timezone: Asia/Shanghai
