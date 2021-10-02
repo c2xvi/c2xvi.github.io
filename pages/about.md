@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
+description: 英特纳雄耐尔,就一定要实现
+keywords: Chem2080
+comments: false
 menu: 关于
 permalink: /about/
 ---
