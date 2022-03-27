@@ -11,7 +11,7 @@ keywords:
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: Chem2080/chem2080.github.io
+repository: c2xvi/c2xvi.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -52,9 +52,9 @@ highlight_theme: base16.monokai.dark
 author: Chem2080
 organization: 
 organization_url: 
-github_username: Chem2080
+github_username: c2xvi
 location: Shanghai, China
-email: 1882005cg@gmail.com
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -131,7 +131,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Chem2080
+    owner: c2xvi
     repo: c2blogcomment
     oauth:
         client_id: fc56a903598fe97b30fb
